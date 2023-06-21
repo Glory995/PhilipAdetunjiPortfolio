@@ -13,7 +13,7 @@ const Header = () => {
 
 
   const handleHireMeClick = () => {
-    window.location.href = 'mailto:glorysimon995@gmail.com';
+    window.location.href = 'mailto:adetunjiphilipsch47@gmail.com'; 
   };
 
   return (

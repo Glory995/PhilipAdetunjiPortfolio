@@ -77,7 +77,7 @@ const portfolios = [
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://public.tableau.com/app/profile/adetunji.philip/viz/TOTALCUMMULATEDCASESPERREGION/TOTALCUMMULATEDCASESPERREGION",
   },
   {
     id: "08",
@@ -97,69 +97,69 @@ const portfolios = [
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://public.tableau.com/app/profile/adetunji.philip/viz/kpmg_16585998066470/Dashboard1",
   },
   {
     id: "10",
     imgUrl: portfolioImg03,
     category: "Ux",
-    title: "File Sharing Website",
+    title: "Flight Analysis",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://public.tableau.com/app/profile/adetunji.philip/viz/flights_16364188838570/Dashboard1",
   },
   {
     id: "11",
     imgUrl: portfolioImg04,
     category: "Web Design",
-    title: "Oragnizatio",
+    title: "Taxi Analysis",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://public.tableau.com/app/profile/adetunji.philip/viz/TAXI_16407057427560/Dashboard1",
   },
   {
     id: "12",
     imgUrl: portfolioImg05,
     category: "Web Design",
-    title: "Allocation chart",
+    title: "Covid 19 dashboard",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://public.tableau.com/app/profile/adetunji.philip/viz/DASHBOARDCOVID-19_16404294938070/Dashboard2",
   },
   {
     id: "13",
     imgUrl: portfolioImg06,
     category: "Web Design",
-    title: "food arrangement",
+    title: "Map of Fully Vacinated",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://public.tableau.com/app/profile/adetunji.philip/viz/MAPOFCOUNTRIESTHATAREFULLYVACCINATED/MAPOFCOUNTRIESTHATAREFULLYVACCINATED",
   },
   
   {
     id: "14",
     imgUrl: portfolioImg07,
     category: "ux",
-    title: "despicating site ",
+    title: "Resturant Rating Dashboard ",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://public.tableau.com/app/profile/adetunji.philip/viz/resturantratingdashboard/Dashboard3",
   },
 
   {
     id: "14",
     imgUrl: portfolioImg08,
     category: "ux",
-    title: "despicating site ",
+    title: "Covid 19 Analysis ",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    siteUrl: "https://public.tableau.com/app/profile/adetunji.philip/viz/covid-19Analysis_16404286264320/Dashboard2",
   },
 ];
 
